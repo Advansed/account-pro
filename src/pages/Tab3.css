@@ -1,0 +1,22 @@
+.o-text-1 {
+    margin-left: 1em;
+    font: 13px/15px Arial;
+    color: darkgray;
+}
+
+.o-text-2 {
+    font: 13px/15px Arial;
+}
+
+.o-icon-1 {
+    width: 1.8em;
+    height: 1.8em;
+}
+
+.b-bottom-1 {
+    border-bottom: 1px solid gray;
+}
+
+.top-margin-1 {
+    margin-top: 0.5em;
+}

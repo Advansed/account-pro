@@ -1,0 +1,76 @@
+.header {
+    text-align: center;
+}
+.a-right{
+    text-align: right;
+}
+
+.i-card {
+    width: 300;
+    height: 160;
+}
+
+.i-text-10 {
+    font: 12px/18px Arial;
+    letter-spacing: -0.19px;
+    opacity: 1;
+}
+
+.i-text-11 {
+    font: Bold 15px/24px Arial;
+    letter-spacing: -0.24px;
+    opacity: 1;
+}
+
+.i-text-12 {
+    font: 15px/24px Arial;
+    letter-spacing: -0.24px;
+    color: green;
+    opacity: 1;
+}
+
+.i-icon {
+    width: 100%;
+    height: 100%;
+}
+
+.item-1 {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.top-1 {
+    margin-bottom: auto;
+}
+
+.m-1 {
+    margin-bottom: 0.5em;
+}
+
+.ind-input {
+    border: 3px solid gray;
+    font: bold 1.8em Arial;
+    letter-spacing: 0.3em;
+    padding: 0px;
+    text-align: right;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.ind-input-1 {
+    border: 3px solid red;
+    font: bold 1.8em Arial;
+    letter-spacing: 0.3em;
+    padding: 0px;
+    direction: ltr;
+    float: right;
+    clear: both;
+}
+
+.ind-input-2 {
+    /* border: 3px solid gray; */
+    font: bold 2em Arial;
+    letter-spacing: 0.2em;
+    padding: 0px;
+    text-align: right;
+}

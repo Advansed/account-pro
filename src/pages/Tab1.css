@@ -1,0 +1,88 @@
+.p-header {
+    /* background-image: "assets/bg@2x.png"; */
+    --background: url(/assets/bg@2x.png) no-repeat top;
+}
+
+.i-text {
+    position: relative;
+    top: -10em;
+    left: 2em;
+    width: 20em;
+    font: 15px/18px Arial;
+    letter-spacing: 0.24px;
+    opacity: 1;
+
+}
+.i-img-1{
+    z-index: 1;
+    height: 150;
+}
+
+.i-img {
+    --border-radius: 50%;
+    --size: 30px;
+    position: relative;
+    top: -11.55em;
+    left: 22em;
+}
+
+.i-card {
+    width: 90%;
+    height: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    z-index: 300;
+    border-radius: 1em;
+}
+
+.i-card-1 {
+    width: 90%;
+    /* background-color: white; */
+    margin-left: auto;
+    margin-right: auto;
+    z-index: 300;
+    border-radius: 1em;
+
+}
+
+.m-left{
+    margin-left: 1.5em;
+}
+
+.i-but-1{
+    height: 100%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.text-2 {
+    color: #000;
+    position: relative;
+    top: 0.3em;
+    left: 0em;
+    font: 17px/20px Arial;
+    letter-spacing: 0.24px;
+    opacity: 1;
+}
+
+.i-but {
+    margin: 15;
+}
+
+.simv{
+    height: 5em;
+    width: auto;
+    border-radius: 10%;
+}
+
+.item-2 {
+    width: auto;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-top: 1em;
+}
+
+.input-3 {
+    border-bottom: 1px solid gray;  
+}

@@ -1,6 +1,6 @@
 {
   "appId": "io.ionic.starter",
-  "appName": "counterpro",
+  "appName": "myCounter",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",

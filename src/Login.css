@@ -1,0 +1,135 @@
+.i-content {
+    text-align: center;
+    --padding-top: 15%;
+    --padding-start: 15%;
+    --padding-end: 15%;
+    --padding-bottom: 15%;
+}
+
+.m-15 {
+    margin-top: 15;
+    padding-top: 15;
+    padding-bottom: 15;
+    height: 50;
+}
+
+.col-1 {
+    width: 100%;
+    table-layout: fixed;  
+}
+
+.icon-1 {
+    height: 2em;
+    width: 2em;
+    padding-bottom: 1.5em;
+}
+
+.l-text-1 {
+
+    font: Bold 22px/29px Arial;
+    letter-spacing: 0.32px;
+    opacity: 1;
+
+} 
+
+.l-text-2 {
+    margin-top: 15;
+    font: 13px/18px Arial;
+    letter-spacing: -0.08px;
+    opacity: 1;
+} 
+
+.l-text-3 {
+    text-align: left;
+    font: 34px/45px Arial;
+    letter-spacing: 0.27px;
+    opacity: 1;
+}
+
+.l-text-4 {
+    text-align: left;
+    margin-top: 1.0em;
+    font: 17px/22px Arial;
+    letter-spacing: -0.41px;
+    opacity: 1;
+    margin-bottom: 1.0em;
+}
+
+.text-5 {
+    text-align: center;
+    margin-top: 1em;
+    font: 17px/22px Arial;
+    letter-spacing: -0.41px;
+    opacity: 1;
+    margin-bottom: 1em;
+}
+
+.a-center {
+    text-align: center;
+}
+
+.t-under {
+    text-decoration: underline; 
+}
+
+/* ion-slides {
+    height: 100%;
+  } */
+
+.m-input {
+    /* margin-top: 0.5em; */
+    --placeholder-color:initial;
+    --placeholder-font-style:initial;
+    --placeholder-font-weight:initial;
+    --placeholder-opacity:.5;
+    --padding-top:0;
+    --padding-end:0;
+    --padding-bottom:0;
+    --padding-start:0;
+    --background:transparent;
+    --color:initial;
+    position:relative;
+    -ms-flex-align:center;
+    align-items:center;
+    padding:0 !important;
+    z-index:2;
+
+    border-radius:var(--border-radius);
+    padding-left:var(--padding-start);
+    padding-right:var(--padding-end);
+    padding-top:var(--padding-top);
+    padding-bottom:var(--padding-bottom);
+    font-family:inherit;
+    font-size:inherit;
+    font-style:inherit;
+    font-weight:inherit;
+    letter-spacing:inherit;
+    text-decoration:inherit;
+    text-indent:inherit;
+    text-overflow:inherit;
+    text-transform:inherit;
+    text-align:inherit;
+    white-space:inherit;
+    color:inherit;
+    display:inline-block;
+    -ms-flex:1;
+    flex:1;
+    width:100%;
+    max-width:100%;
+    max-height:100%;
+    border:0;
+    outline:none;
+    background:transparent;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none
+
+}
+
+
+
+.hidden {
+    display: none;
+}
