@@ -1,0 +1,7 @@
+{
+  "name": "counterpro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
